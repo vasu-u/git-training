@@ -1,3 +1,6 @@
 A {
-    public static void main(String args[]){}
+public static void main(String args[]){
+  int =1;
+  String="vasu";
+}
 }
